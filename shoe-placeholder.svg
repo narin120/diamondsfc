@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Football shoe image unavailable">
+  <rect width="640" height="480" fill="#edf2f7"/>
+  <path d="M105 306c57-8 106-43 141-103l32-55 54 33c13 8 22 21 26 35l16 51 83 27c23 7 39 28 39 52v23H105c-24 0-43-14-43-31 0-16 17-29 43-32z" fill="#1d3557"/>
+  <path d="m278 165 54 33c13 8 22 21 26 35l-114-31z" fill="#64dfdf"/>
+  <path d="M64 369h432c-8 20-28 32-52 32H110c-22 0-39-12-46-32z" fill="#f4a261"/>
+  <path d="m261 220 68 19m-83 1 69 20m-84 2 69 20" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="8"/>
+  <text x="320" y="445" fill="#526174" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">Football shoe image unavailable</text>
+</svg>
